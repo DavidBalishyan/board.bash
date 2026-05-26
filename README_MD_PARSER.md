@@ -118,7 +118,6 @@ MARKDOWN
 - HTML is passed through verbatim (not rendered or stripped).
 - Nested blockquotes (`> > nested`) are not supported.
 - Inline formatting within table cells is not supported (cells render as plain text).
-- Fenced code blocks must use triple backticks (`` ``` ``); tildes (`~~~`) are not supported.
 
 ## License
 
