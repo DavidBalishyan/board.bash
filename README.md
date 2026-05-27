@@ -172,4 +172,4 @@ fi
 
 ## License
 
-MIT
+[LGPL-2.1](LICENSE)

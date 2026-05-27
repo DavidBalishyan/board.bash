@@ -1,5 +1,5 @@
-#!/bin/bash
-# board.bash -- pretty up your terminal scripts, no fuss
+#!/usr/bin/env bash
+# board.bash -- pretty up your terminal scripts
 #
 # A pure-bash library for colors, formatting, user prompts, progress bars,
 # logging, and other stuff that makes command-line scripts not look like

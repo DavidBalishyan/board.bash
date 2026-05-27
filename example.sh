@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Walk through every function in board.bash with real examples.
 # Run this in a terminal to see what each one does.
 

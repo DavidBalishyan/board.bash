@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Walk through every feature of the markdown parser with real examples.
 # Run this in a terminal to see what each one does.
 

@@ -121,4 +121,4 @@ MARKDOWN
 
 ## License
 
-MIT (same as board.bash)
+[LGPL-2.1 (same as board.bash)](LICENSE) 
