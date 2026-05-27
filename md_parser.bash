@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # md_parser.bash -- render Markdown in the terminal using board.bash
 #
 # Source board.bash first, then pipe or pass markdown files to render:
